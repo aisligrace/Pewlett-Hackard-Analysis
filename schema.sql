@@ -46,7 +46,7 @@ CREATE TABLE salaries (
 );
 
 CREATE TABLE titles (
-	emp_no INT NOT Null,
+	emp_no INT NOT NULL,
 	title VARCHAR NOT NULL,
 	from_date DATE NOT NULL,
   	to_date DATE NOT NULL,
