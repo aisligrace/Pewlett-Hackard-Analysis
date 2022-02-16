@@ -11,8 +11,8 @@ After creating an ERD to help connect the different CSV files and define the rel
 
 2. After looking at the number of retiring employees, we dug deeper into their specific titles. 70% of the retiring employees had 'Senior' in their title, meaning PH will have to recruit new leadership.
 
-3. There are 1,549 employees included in the Mentorship Program. 
+3. There are 1,549 employees included in the Mentorship Program. While there are a lot of positions that need to be replaced at PH, this mentorship program should be large enough to help recruit and train them.
 
-4.
+4. Out of the employees eligible for the mentorship program, 719 contain "Senior" in their title, which is 46%, and very valuable. That amount of leadership within this group will serve PH's mentorship program and it's new employees very well. 
 
 ## Summary
