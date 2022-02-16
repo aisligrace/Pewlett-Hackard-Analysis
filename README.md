@@ -22,3 +22,6 @@ After creating an ERD to help connect the different CSV files and define the rel
 
 
 ## Summary
+In conclusion, PH will need to replace about 70,000 employees when these current employees start to retire very soon. They will need to implement a huge HR recruiting program with trained professionals and it will be a gigantic undertaking. However, we are confident that the mentorship program, of about 1,500 employees, will be an enormous asset to the company. 
+
+##
