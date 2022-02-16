@@ -5,5 +5,14 @@ The purpose of this analysis was to use SQL queries to determine the number of r
 
 ## Results
 After creating an ERD to help connect the different CSV files and define the relationships, we conducted our analysis using SQL. Here are four major conclusions we found after completing the analysis:
-1. 
+
+
+1.
+
+2.
+
+3.
+
+4.
+
 ## Summary
