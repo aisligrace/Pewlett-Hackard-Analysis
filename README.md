@@ -15,4 +15,6 @@ After creating an ERD to help connect the different CSV files and define the rel
 
 4. Out of the employees eligible for the mentorship program, 719 contain "Senior" in their title, which is 46%, and very valuable. That amount of leadership within this group will serve PH's mentorship program and it's new employees very well. 
 
+![image](https://github.com/aisligrace/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
+
 ## Summary
