@@ -11,6 +11,8 @@ After creating an ERD to help connect the different CSV files and define the rel
 
 2. After looking at the number of retiring employees, we dug deeper into their specific titles. 70% of the retiring employees had 'Senior' in their title, meaning PH will have to recruit new leadership.
 
+![image](https://github.com/aisligrace/Pewlett-Hackard-Analysis/blob/main/retirement%20titles.png)
+
 3. There are 1,549 employees included in the Mentorship Program. While there are a lot of positions that need to be replaced at PH, this mentorship program should be large enough to help recruit and train them.
 
 ![image](https://github.com/aisligrace/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
