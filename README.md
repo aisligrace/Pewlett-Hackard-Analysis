@@ -13,8 +13,10 @@ After creating an ERD to help connect the different CSV files and define the rel
 
 3. There are 1,549 employees included in the Mentorship Program. While there are a lot of positions that need to be replaced at PH, this mentorship program should be large enough to help recruit and train them.
 
+![image](https://github.com/aisligrace/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
+
 4. Out of the employees eligible for the mentorship program, 719 contain "Senior" in their title, which is 46%, and very valuable. That amount of leadership within this group will serve PH's mentorship program and it's new employees very well. 
 
-![image](https://github.com/aisligrace/Pewlett-Hackard-Analysis/blob/main/mentorship.png)
+
 
 ## Summary
